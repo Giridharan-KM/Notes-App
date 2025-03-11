@@ -21,3 +21,4 @@ JavaScript - Functionality & DOM Manipulation
 ## 📩 Contact & Support
 ### 📧 Email: kmgiridharan8899@gmail.com
 ### 🔗 Portfolio: [My-Portfolio](https://giridharan-km.netlify.app)
+### 📒 Notes App: [Open Note](https://notes-app4.netlify.app/)
