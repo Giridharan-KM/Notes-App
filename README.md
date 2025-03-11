@@ -15,7 +15,6 @@ JavaScript - Functionality & DOM Manipulation
 # 🚀 Key Features
 ✅ Create New Notes – Add and manage multiple notes.  
 ✅ Edit & Delete Notes – Update or remove notes anytime.  
-✅ Auto Save (LocalStorage) – Notes are saved even after page reload. (If implemented)  
 ✅ User-Friendly Interface – Clean and minimal UI for better accessibility.  
 ✅ Responsive Design – Works on desktops, tablets, and mobile devices.
 
